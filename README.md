@@ -18,4 +18,4 @@ Paddy is a user-friendly web platform dedicated to pet adoption and sales. It al
 - **Promises**: For handling asynchronous operations, especially in API calls.
 
 ## Live Link
-Check out the live project at [Paddy Live Demo](https://github.com/majidul-007/paddy-website.git)
+Check out the live project at [Paddy Live Demo](https://majidul-007.github.io/paddy-website/)
